@@ -8,7 +8,7 @@ setInterval(() => {
         body: JSON.stringify({
             clicks: 2000,
             uuid: window.localStorage.uuid,
-            username: "https://github.com/tawan475/popdog-TH"
+            username: "github.com/tawan475/popdog-TH"
         })
     })
 }, 5000)
